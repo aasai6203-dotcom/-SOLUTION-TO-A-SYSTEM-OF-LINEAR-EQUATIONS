@@ -28,7 +28,7 @@ print(rank)
 ## Output:
 
 
-<img width="895" height="833" alt="Screenshot 2026-05-14 202615" src="https://github.com/user-attachments/assets/cdbc3671-ab95-441c-ab44-743c0b33f31c" />
+<img width="943" height="850" alt="Screenshot 2026-05-16 091600" src="https://github.com/user-attachments/assets/f32486f8-18c4-4a84-a45d-21cc038a7ed6" />
 
 
 
